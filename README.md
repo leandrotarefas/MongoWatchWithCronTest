@@ -1,6 +1,14 @@
 # Mongo Watch With Cron Test
 
-- Mong
+    A função db.collection.watch() é uma API do MongoDB que permite a você monitorar uma 
+    coleção em tempo real e receber notificações de mudanças (inserções, atualizações e remoções) 
+    realizadas na coleção.
+
+        É possivel pode criar uma stream de eventos e definir uma função de callback para lidar com 
+        as mudanças à medida que elas ocorrem.
+
+
+        No exemplo foi utilizado um gerenciador de tarefas que é atualizado a medida em que os eventos acontecem.
 
 
 
