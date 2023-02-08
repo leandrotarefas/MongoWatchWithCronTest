@@ -8,7 +8,8 @@
         as mudanças à medida que elas ocorrem.
 
 
-        No exemplo foi utilizado um gerenciador de tarefas que é atualizado a medida em que os eventos acontecem.
+    No exemplo foi utilizado um gerenciador de tarefas que é atualizado a medida em que os 
+    eventos acontecem.
 
 
 
